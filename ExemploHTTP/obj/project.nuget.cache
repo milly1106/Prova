@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LRFA7hY842Js15GjcchHXl06YauskVGe0HZFS7znckUfUQX0fzp3/vl350sfyRxAqkvppyoZQWa8xs2yR75C9A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\milly\\OneDrive\\Área de Trabalho\\ExemploHTTP\\ExemploHTTP\\ExemploHTTP.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "A versão da plataforma não está presente para uma ou mais estruturas de destino, embora elas tenham uma plataforma especificada: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}
